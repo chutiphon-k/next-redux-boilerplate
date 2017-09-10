@@ -1,0 +1,22 @@
+{
+  "name": "next-redux-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://chutiphon-k@github.com/chutiphon-k/next-redux-boilerplate.git",
+  "author": "Chutiphon-k <chutiphon.k@ku.th>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next -p 8080",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^3.2.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-config-chutiphonk": "^1.0.0"
+  }
+}
